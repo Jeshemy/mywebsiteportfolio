@@ -249,7 +249,7 @@ section{
 }
 
 ::-webkit-scrollbar-track{
-  background:linear-gradient(to right, rgb(65 90 119), rgb(119 141 169));
+  background:linear-gradient(to right, rgb(224 225 221), rgb(224 225 221));
 }
 
 ::-webkit-scrollbar-thumb{
