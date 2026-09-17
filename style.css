@@ -760,7 +760,11 @@ footer ul li{
 .contact-link:active,
 .btn,
 .btn:visited,
-.btn:hover,
 .btn:active {
   color: #000000;
+}
+
+.btn:hover{
+  background-color: black;
+  color: white !important;
 }
