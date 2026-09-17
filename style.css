@@ -60,7 +60,7 @@ li a::before{
   top: 25px;
   border-radius: 1rem;
   transition: 0.3s ease-in-out;
-  background:linear-gradient(to right, rgb(233 183 206), rgb(181 198 224));
+  background:linear-gradient(to right, rgb(17 29 74), rgb(131 128 182));
 }
 
 li a:hover::before{
@@ -77,11 +77,11 @@ li a:hover::before{
   cursor: pointer;
   text-wrap: nowrap;
   transition: 0.3s ease-in-out;
-  background:linear-gradient(to right, rgb(233 183 206), rgb(181 198 224));
+  background:linear-gradient(to right, rgb(17 29 74), rgb(131 128 182));
 }
 
 .visit-btn:hover{
-  background:linear-gradient(to right, rgb(181 198 224), rgb(233 183 206));
+  background:linear-gradient(to right, rgb(131 128 182), rgb(17 29 74));
   transform: scale(1.03);
 }
 
@@ -136,7 +136,7 @@ section{
 }
 
 .info-box span{
-  background:linear-gradient(to right, rgb(233 183 206), rgb(181 198 224));
+  background:linear-gradient(to bottom, rgb(17 29 74), rgb(131 128 182));
   background-clip: text;
   color: transparent;
   font-size:2rem;
@@ -239,7 +239,7 @@ section{
 .grid-card span{
   font-size:1.5rem;
   font-weight: 500;
-  background:linear-gradient(to right, rgb(233 183 206), rgb(181 198 224));
+  background:linear-gradient(to bottom, rgb(17 29 74), rgb(131 128 182));
   background-clip: text;
   color:transparent;
 }
@@ -249,7 +249,7 @@ section{
 }
 
 ::-webkit-scrollbar-track{
-  background:linear-gradient(to right, rgb(233 183 206), rgb(181 198 224));
+  background:linear-gradient(to right, rgb(65 90 119), rgb(119 141 169));
 }
 
 ::-webkit-scrollbar-thumb{
